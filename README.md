@@ -15,7 +15,7 @@ Built as a single-file HTML site, deployed via GitHub Pages.
 
 ## What You'll Find
 
-- **Founding PM Story** — Real examples of growing a company and product from $20K ARR and <10 customers to mulit-million ARR, 100+ customers, and a Series A company with 200%+ ARR growth in consecutive years.
+- **Founding PM Story** — Real examples of growing a company and product from $20K ARR and <10 customers to multi-million ARR, 100+ customers, and a Series A company with 200%+ ARR growth in consecutive years.
 - **AI Work** — How we integrated Gemini LLMs into core workflows at Elate to create differentiation and drive two of the company's highest upsell quarters.
 - **Executive-to-IC Transition** — Why a product executive with org-building experience brings a unique advantage to a senior IC role.
 
